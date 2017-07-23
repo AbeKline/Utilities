@@ -1,0 +1,1 @@
+"C:\Program Files\7zip\7z.exe" e *.zip (or *.rar or *.7z)

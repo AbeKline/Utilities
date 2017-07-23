@@ -1,0 +1,1 @@
+tree Z:\ /f /a > "C:\Users\Abe Kline\Google Drive\AllFilesOnMediaDrive.txt"

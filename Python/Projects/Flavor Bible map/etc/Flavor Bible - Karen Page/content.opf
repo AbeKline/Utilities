@@ -1,0 +1,173 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="PAGE, KAREN">KAREN PAGE</dc:creator>
+<dc:creator opf:role="aut">ANDREW DORNENBURG</dc:creator>
+<dc:creator opf:role="aut">BARRY SALZMAN</dc:creator>
+<dc:description>Great cooking goes beyond following a recipe-it's knowing how to season ingredients to coax the greatest possible flavor from them. Drawing on dozens of leading chefs' combined experience in top restaurants across the country, Karen Page and Andrew Dornenburg present the definitive guide to creating "deliciousness" in any dish. Thousands of ingredient entries, organized alphabetically and cross-referenced, provide a treasure trove of spectacular flavor combinations. Readers will learn to work more intuitively and effectively with ingredients; experiment with temperature and texture; excite the nose and palate with herbs, spices, and other seasonings; and balance the sensual, emotional, and spiritual elements of an extraordinary meal. Seasoned with tips, anecdotes, and signature dishes from America's most imaginative chefs, THE FLAVOR BIBLE is an essential reference for every kitchen.</dc:description>
+    <dc:publisher>Little, Brown and Company</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (2.50.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta name="calibre:timestamp" content="2016-10-30T16:12:50.324000+00:00"/>
+    <dc:date>2008-09-15T23:00:00+00:00</dc:date>
+    <dc:rights>Copyright © 2008 by Andrew Dornenburg and Karen Page</dc:rights>
+    <meta name="calibre:title_sort" content="The Flavor Bible"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">1db20b39-d2f0-4c51-936a-53938f22fb21</dc:identifier>
+    <meta name="cover" content="cover"/>
+  <dc:title>The Flavor Bible</dc:title>
+<dc:subject>CKB029000</dc:subject>
+<meta name="calibre:author_link_map" content="{&quot;KAREN PAGE&quot;: &quot;&quot;, &quot;BARRY SALZMAN&quot;: &quot;&quot;, &quot;ANDREW DORNENBURG&quot;: &quot;&quot;}"/>
+<dc:language>pt</dc:language>
+<dc:identifier opf:scheme="calibre">1db20b39-d2f0-4c51-936a-53938f22fb21</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9780316039840</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P00v.jpg" id="Art_P00v.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P0cc.jpg" id="Art_P0cc.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P0cii.jpg" id="Art_P0cii.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P0cix.jpg" id="Art_P0cix.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P0cl.jpg" id="Art_P0cl.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P0clxxx.jpg" id="Art_P0clxxx.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P0cvi.jpg" id="Art_P0cvi.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P0cxxviii.jpg" id="Art_P0cxxviii.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P0ii.jpg" id="Art_P0ii.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P0lv.jpg" id="Art_P0lv.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P0vl.jpg" id="Art_P0vl.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P0vlia.jpg" id="Art_P0vlia.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P0vlib.jpg" id="Art_P0vlib.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P0vlic.jpg" id="Art_P0vlic.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P0xc.jpg" id="Art_P0xc.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P0xci.jpg" id="Art_P0xci.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P0xiia.jpg" id="Art_P0xiia.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P0xiib.jpg" id="Art_P0xiib.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P0xiic.jpg" id="Art_P0xiic.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P0xix.jpg" id="Art_P0xix.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P0xl.jpg" id="Art_P0xl.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P0xvi.jpg" id="Art_P0xvi.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P0xxxiva.jpg" id="Art_P0xxxiva.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P0xxxivb.jpg" id="Art_P0xxxivb.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P0xxxivc.jpg" id="Art_P0xxxivc.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P239.jpg" id="Art_P239.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P242.jpg" id="Art_P242.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P251.jpg" id="Art_P251.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P252a.jpg" id="Art_P252a.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P252b.jpg" id="Art_P252b.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P252c.jpg" id="Art_P252c.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P254.jpg" id="Art_P254.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P257.jpg" id="Art_P257.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P259.jpg" id="Art_P259.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P265.jpg" id="Art_P265.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P277.jpg" id="Art_P277.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P279.jpg" id="Art_P279.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P286.jpg" id="Art_P286.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P290.jpg" id="Art_P290.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P292.jpg" id="Art_P292.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P298.jpg" id="Art_P298.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P301.jpg" id="Art_P301.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_P304.jpg" id="Art_P304.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_Pcciv.jpg" id="Art_Pcciv.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_Pccx.jpg" id="Art_Pccx.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_Pccxliii.jpg" id="Art_Pccxliii.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_Pccxv.jpg" id="Art_Pccxv.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_Pccxxixa.jpg" id="Art_Pccxxixa.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_Pccxxixb.jpg" id="Art_Pccxxixb.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_Pccxxv.jpg" id="Art_Pccxxv.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_Pccxxviii.jpg" id="Art_Pccxxviii.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_Pccxxx.jpg" id="Art_Pccxxx.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_Pccxxxiii.jpg" id="Art_Pccxxxiii.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_Pccxxxvi.jpg" id="Art_Pccxxxvi.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_Pcic.jpg" id="Art_Pcic.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_Pclxiv.jpg" id="Art_Pclxiv.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_Pclxvii.jpg" id="Art_Pclxvii.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_Pclxxiii.jpg" id="Art_Pclxxiii.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_Pclxxv.jpg" id="Art_Pclxxv.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_Pcxcii.jpg" id="Art_Pcxcii.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_Pcxiv.jpg" id="Art_Pcxiv.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_Pcxviii.jpg" id="Art_Pcxviii.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_Pcxx.jpg" id="Art_Pcxx.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_Pcxxiv.jpg" id="Art_Pcxxiv.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_Pcxxxii.jpg" id="Art_Pcxxxii.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_Pcxxxiv.jpg" id="Art_Pcxxxiv.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_Pcxxxvi.jpg" id="Art_Pcxxxvi.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_Plii.jpg" id="Art_Plii.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_Plxvii.jpg" id="Art_Plxvii.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_Plxxvi.jpg" id="Art_Plxxvi.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_Plxxxiv.jpg" id="Art_Plxxxiv.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_Pxliii.jpg" id="Art_Pxliii.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_Pxviii.jpg" id="Art_Pxviii.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_Pxxii.jpg" id="Art_Pxxii.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_Pxxvi.jpg" id="Art_Pxxvi.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_Pxxx.jpg" id="Art_Pxxx.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_Pxxxii.jpg" id="Art_Pxxxii.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/Art_Pxxxviii.jpg" id="Art_Pxxxviii.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Text/FlavorBible_ackn-1.html" id="FlavorBible_ackn-1.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/FlavorBible_adca-1.html" id="FlavorBible_adca-1.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/FlavorBible_afte-1.html" id="FlavorBible_afte-1.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/FlavorBible_afte-2.html" id="FlavorBible_afte-2.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/FlavorBible_auth-1.html" id="FlavorBible_auth-1.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/FlavorBible_chap-1.html" id="FlavorBible_chap-1.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/FlavorBible_chap-2.html" id="FlavorBible_chap-2.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/FlavorBible_chap-3a.html" id="FlavorBible_chap-3a.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/FlavorBible_chap-3b.html" id="FlavorBible_chap-3b.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/FlavorBible_chap-3c_split_000.html" id="FlavorBible_chap-3c.html2" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/FlavorBible_chap-3c_split_001.html" id="FlavorBible_chap-3c.html1" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/FlavorBible_chap-3d.html" id="FlavorBible_chap-3d.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/FlavorBible_chap-3e.html" id="FlavorBible_chap-3e.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/FlavorBible_chap-3f.html" id="FlavorBible_chap-3f.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/FlavorBible_chap-3g.html" id="FlavorBible_chap-3g.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/FlavorBible_chap-3h.html" id="FlavorBible_chap-3h.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/FlavorBible_chap-3i.html" id="FlavorBible_chap-3i.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/FlavorBible_chap-3jkl.html" id="FlavorBible_chap-3jkl.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/FlavorBible_chap-3m.html" id="FlavorBible_chap-3m.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/FlavorBible_chap-3nop.html" id="FlavorBible_chap-3nop.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/FlavorBible_chap-3qr.html" id="FlavorBible_chap-3qr.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/FlavorBible_chap-3s.html" id="FlavorBible_chap-3s.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/FlavorBible_chap-3t.html" id="FlavorBible_chap-3t.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/FlavorBible_copy.html" id="FlavorBible_copy.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/FlavorBible_dedi-1.html" id="FlavorBible_dedi-1.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/FlavorBible_epig-1.html" id="FlavorBible_epig-1.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/FlavorBible_epig-2.html" id="FlavorBible_epig-2.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/FlavorBible_pref-1.html" id="FlavorBible_pref-1.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/FlavorBible_toc.html" id="FlavorBible_toc.html" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="FlavorBible_copy.html"/>
+    <itemref idref="FlavorBible_toc.html"/>
+    <itemref idref="FlavorBible_adca-1.html"/>
+    <itemref idref="FlavorBible_epig-1.html"/>
+    <itemref idref="FlavorBible_dedi-1.html"/>
+    <itemref idref="FlavorBible_epig-2.html"/>
+    <itemref idref="FlavorBible_pref-1.html"/>
+    <itemref idref="FlavorBible_chap-1.html"/>
+    <itemref idref="FlavorBible_chap-2.html"/>
+    <itemref idref="FlavorBible_chap-3a.html"/>
+    <itemref idref="FlavorBible_chap-3b.html"/>
+    <itemref idref="FlavorBible_chap-3c.html2"/>
+    <itemref idref="FlavorBible_chap-3c.html1"/>
+    <itemref idref="FlavorBible_chap-3d.html"/>
+    <itemref idref="FlavorBible_chap-3e.html"/>
+    <itemref idref="FlavorBible_chap-3f.html"/>
+    <itemref idref="FlavorBible_chap-3g.html"/>
+    <itemref idref="FlavorBible_chap-3h.html"/>
+    <itemref idref="FlavorBible_chap-3i.html"/>
+    <itemref idref="FlavorBible_chap-3jkl.html"/>
+    <itemref idref="FlavorBible_chap-3m.html"/>
+    <itemref idref="FlavorBible_chap-3nop.html"/>
+    <itemref idref="FlavorBible_chap-3qr.html"/>
+    <itemref idref="FlavorBible_chap-3s.html"/>
+    <itemref idref="FlavorBible_chap-3t.html"/>
+    <itemref idref="FlavorBible_ackn-1.html"/>
+    <itemref idref="FlavorBible_afte-1.html"/>
+    <itemref idref="FlavorBible_auth-1.html"/>
+    <itemref idref="FlavorBible_afte-2.html"/>
+  </spine>
+  <guide>
+    <reference href="OEBPS/Text/FlavorBible_toc.html" title="Table of Contents" type="toc"/>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

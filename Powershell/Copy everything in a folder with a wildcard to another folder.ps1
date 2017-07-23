@@ -1,0 +1,1 @@
+﻿Get-ChildItem -Path "Z:\Books\bookz\ZIP\*" -Include * -Recurse | Copy-Item -Destination "Z:\Books\bookz\ZIP" -Recurse -Force  

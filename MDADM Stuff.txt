@@ -1,0 +1,56 @@
+sudo apt-get install system-config-samba gparted mdadm aptitude mumble mumble-server -y
+
+
+
+
+sudo chown -R abe /poopymedia/
+
+sudo chmod -R 777 /poopymedia/
+
+
+sudo mdadm --create --verbose /dev/md0 --level=6 --raid-devices=8 /dev/sda /dev/sdb /dev/sdc /dev/sdd /dev/sde /dev/sdf
+
+ /dev/sdg /dev/sdh
+
+sudo mdadm --add /dev/md0 /dev/sde
+
+sudo mdadm --grow --raid-devices=6 /dev/md0 
+
+
+sudo mdadm --detail /dev/md0 
+
+
+
+
+Stop
+
+Create
+
+Rename
+
+Mount
+
+
+update uuid
+
+
+check "  " against " sudo nano /etc/mdadm/mdadm.conf "
+
+
+
+when dealing with a wonky deactivated array;
+
+sudo mdadm --stop /dev/mdwhatever
+
+sudo mdadm --assemble --scan -v
+
+
+
+sudo mdadm --create --verbose /dev/md0 --level=6 --raid-devices=8 /dev/sda /dev/sdb /dev/sdc /dev/sdd /dev/sde /dev/sdf
+
+ /dev/sdg /dev/sdh
+
+watch cat /proc/mdstat
+
+
+if there is a md0p1, just mount it

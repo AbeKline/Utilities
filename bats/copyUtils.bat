@@ -1,0 +1,1 @@
+robocopy C:\Utilities Z:\Utilities /s /v /R:10 /W:0 > copyUtilsLog.txt

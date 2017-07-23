@@ -1,0 +1,5 @@
+Tucker's IP: 159.203.85.183
+Pants IP: 192.168.0.4
+
+apt-get install mumble mumble-server
+dpkg-reconfigure mumble-server

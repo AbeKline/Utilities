@@ -1,0 +1,20 @@
+Procedure to fix Error 0xc004d307
+
+After using command SLMGR -REARM for three times, “SkipRearm” registry key will become “0”.You need to change the “SkipRearm” registry key to “1”. You can find “SkipRearm” by going in to following location from “Registry editor”.
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform
+
+Follow below step by step procedure to go into above place.
+
+Press “Windows + R” you will see Run dialog. Or Go to Start, click Run.
+Type “Regedit”. Click Ok. You will see Registry editor window.
+Click on Arrow mark which is left to “HKEY_LOCAL_MACHINE”.
+Click on arrow mark which is left to “SOFTWARE”.
+Click on arrow mark which is left to “Microsoft”.
+Click on arrow mark which is left to “Windows NT”.
+Click on arrow mark which is left to “CurrentVersion”.
+Now click on the word “SoftwareProtectionPlatform” not on arrow mark.
+Right click on “SkipRearm” in the right window.
+Click on “Modify”. Change “Value Data” to “1”.
+Restart PC.
+Now you can try the command SLMGR -REARM.

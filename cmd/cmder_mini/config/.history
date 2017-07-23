@@ -1,0 +1,67 @@
+ls
+dir
+ls
+ls
+\Utilities\Python\Projects\Flavor Bible map\
+"\Utilities\Python\Projects\Flavor Bible map\"
+cd "\Utilities\Python\Projects\Flavor Bible map\"
+python3
+npm -g python3
+ls
+dir
+\Utilities\Python\Projects\Flavor Bible map\
+"\Utilities\Python\Projects\Flavor Bible map\"
+cd "\Utilities\Python\Projects\Flavor Bible map\"
+python3
+npm -g python3
+npm install -g python3
+npm install python3 -g
+npm install python -g
+cd "C:\Utilities\Python\Projects\Flavor Bible map"
+ls
+dir
+python ExtractData.py 
+python ExtractText.py 
+python
+dir Text\ 
+dir Text\   >filelist.txt
+pip install networkx
+pip install pyplot
+pip install pyplot
+python3
+cd C:\Utilities\Python\Projects\Flavor Bible map\
+python
+ping 192.168.0.255
+ping 192.168.1.255
+netstat -r
+choco upgrade all
+arp -p
+arp -p
+cd C:\Utilities\Python\Projects\Flavor Bible map
+pyth
+python nx2tikz --input ExtractText.py --output out --format pdf
+python
+pip3 install --upgrade --pre acdcli
+acd_cli.exe 
+pip3 install --upgrade --pre acdcli
+acd_cli.exe 
+pip3 uninstall acdcli
+pip3 install --upgrade git+https://github.com/yadayada/acd_cli.git
+git
+git
+windirstat
+windirstat /?
+git
+git
+windirstat
+windirstat /?
+graphviz 
+cd C:\Windows\System32\Graphviz2.38
+cd bin\
+ls
+dot
+graphml2gv.exe 
+dot
+choco upgrade all
+choco upgrade all
+ssh abe@abe

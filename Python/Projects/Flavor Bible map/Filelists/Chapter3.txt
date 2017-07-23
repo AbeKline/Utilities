@@ -1,0 +1,15 @@
+Text\\FlavorBible_chap-3a.html
+Text\\FlavorBible_chap-3b.html
+Text\\FlavorBible_chap-3c.html
+Text\\FlavorBible_chap-3d.html
+Text\\FlavorBible_chap-3e.html
+Text\\FlavorBible_chap-3f.html
+Text\\FlavorBible_chap-3g.html
+Text\\FlavorBible_chap-3h.html
+Text\\FlavorBible_chap-3i.html
+Text\\FlavorBible_chap-3jkl.html
+Text\\FlavorBible_chap-3m.html
+Text\\FlavorBible_chap-3nop.html
+Text\\FlavorBible_chap-3qr.html
+Text\\FlavorBible_chap-3s.html
+Text\\FlavorBible_chap-3t.html

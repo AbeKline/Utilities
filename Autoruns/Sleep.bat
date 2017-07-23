@@ -1,0 +1,1 @@
+"C:\Utilities\PSTools\psshutdown.exe" -d -t 0 -accepteula

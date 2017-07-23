@@ -1,0 +1,53 @@
+12:06:34.197347 - INFO: Program initialized. Logging level set to Info.
+12:06:34.384357 - INFO: Loading GameDB from GameDB.xml.gz
+12:06:34.582369 - INFO: GameDB XML document parsed.
+12:06:34.961390 - INFO: GameDB XML processed, load complete.
+12:06:35.350413 - INFO: Saving GameDB to GameDB.xml.gz
+12:06:35.638429 - INFO: GameDB saved.
+12:06:35.645429 - INFO: Loading profile from file: C:\Users\Abe Kline\AppData\Roaming\Depressurizer\Default.profile
+12:06:35.659430 - INFO: Profile loaded.
+12:07:20.489994 - INFO: Saving GameDB to GameDB.xml.gz
+12:07:20.773011 - INFO: GameDB saved.
+12:11:02.541695 - INFO: Saving Steam config file: c:\program files (x86)\steam\userdata\81597873\7\remote\sharedconfig.vdf.
+12:11:02.544695 - INFO: Writing to disk...
+12:11:02.551696 - INFO: Saving Steam config file: c:\program files (x86)\steam\userdata\81597873\config\shortcuts.vdf.
+12:11:02.568697 -  ERR: Error opening Steam config file: System.IO.FileNotFoundException: Could not find file 'c:\program files (x86)\steam\userdata\81597873\config\shortcuts.vdf'.
+File name: 'c:\program files (x86)\steam\userdata\81597873\config\shortcuts.vdf'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at Depressurizer.GameList.ExportSteamShortcuts(Int64 SteamId)
+12:11:02.576697 - INFO: Saving profile: C:\Users\Abe Kline\AppData\Roaming\Depressurizer\Default.profile
+12:11:02.580697 - INFO: Profile save complete.
+12:11:02.595698 - INFO: Program closing.
+10:36:34.001200 - INFO: Program initialized. Logging level set to Info.
+10:36:34.220213 - INFO: Loading GameDB from GameDB.xml.gz
+10:36:34.425224 - INFO: GameDB XML document parsed.
+10:36:34.822247 - INFO: GameDB XML processed, load complete.
+10:36:34.918252 - INFO: Saving GameDB to GameDB.xml.gz
+10:36:35.223270 - INFO: GameDB saved.
+10:36:35.230270 - INFO: Loading profile from file: C:\Users\Abe Kline\AppData\Roaming\Depressurizer\Default.profile
+10:36:35.244271 - INFO: Profile loaded.
+10:36:39.394509 - INFO: Program closing.
+10:36:42.752701 - INFO: Program initialized. Logging level set to Info.
+10:36:42.869707 - INFO: Loading GameDB from GameDB.xml.gz
+10:36:43.069719 - INFO: GameDB XML document parsed.
+10:36:43.458741 - INFO: GameDB XML processed, load complete.
+10:36:43.541746 - INFO: Saving GameDB to GameDB.xml.gz
+10:36:43.826762 - INFO: GameDB saved.
+10:36:43.829762 - INFO: Loading profile from file: C:\Users\Abe Kline\AppData\Roaming\Depressurizer\Default.profile
+10:36:43.838763 - INFO: Profile loaded.
+10:37:03.851907 - INFO: Saving GameDB to GameDB.xml.gz
+10:37:04.135924 - INFO: GameDB saved.
+10:37:48.905484 - INFO: Saving Steam config file: c:\program files (x86)\steam\userdata\81597873\7\remote\sharedconfig.vdf.
+10:37:48.908484 - INFO: Writing to disk...
+10:37:48.917485 - INFO: Saving Steam config file: c:\program files (x86)\steam\userdata\81597873\config\shortcuts.vdf.
+10:37:48.929486 -  ERR: Error opening Steam config file: System.IO.FileNotFoundException: Could not find file 'c:\program files (x86)\steam\userdata\81597873\config\shortcuts.vdf'.
+File name: 'c:\program files (x86)\steam\userdata\81597873\config\shortcuts.vdf'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at Depressurizer.GameList.ExportSteamShortcuts(Int64 SteamId)
+10:37:48.937486 - INFO: Saving profile: C:\Users\Abe Kline\AppData\Roaming\Depressurizer\Default.profile
+10:37:48.940486 - INFO: Profile save complete.
+10:37:48.963488 - INFO: Program closing.
